@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://www.filipdziwulski.com//sitemap.xml
+Sitemap: https://www.filipdziwulski.com//sitemap.xml
