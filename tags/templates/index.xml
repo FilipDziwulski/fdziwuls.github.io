@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Templates on Hugo Kiss theme</title>
+    <title>Templates on Filip Dziwulski</title>
     <link>https://fdziwuls.github.io/tags/templates/</link>
-    <description>Recent content in Templates on Hugo Kiss theme</description>
+    <description>Recent content in Templates on Filip Dziwulski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/fdziwuls&#34;&gt;Filip Dziwulski&lt;/a&gt; 2018</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fdziwuls.github.io/tags/templates/index.xml" rel="self" type="application/rss+xml" />
