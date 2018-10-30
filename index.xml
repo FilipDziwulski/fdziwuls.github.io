@@ -4,11 +4,12 @@
     <title>Filip Dziwulski</title>
     <link>https://www.filipdziwulski.com/</link>
     <description>Recent content on Filip Dziwulski</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo - gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/fdziwuls&#34;&gt;Filip Dziwulski&lt;/a&gt; 2018</copyright>
+    <contact>filip.dziwulski@gmail.com</contact>
+    <copyright>&copy; <a href="https://github.com/fdziwuls">Filip Dziwulski</a> 2018</copyright>
     
-	<atom:link href="https://www.filipdziwulski.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.filipdziwulski.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
